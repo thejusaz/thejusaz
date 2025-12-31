@@ -41,5 +41,5 @@ Endodontist, track runner and an avid enthusiast for travel, food and adventure!
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thejusaz.com/)
 [![instagram](https://img.shields.io/badge/instagram-d300c7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thejusaz_endo/)
-[![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/thejusaz/)
 
