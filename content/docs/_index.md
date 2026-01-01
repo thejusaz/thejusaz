@@ -1,18 +1,26 @@
 ---
-title: Documentation
+title: Achievements
 next: first-page
+type: blog
 ---
 
-This is a demo of the theme's documentation layout.
+{{% steps %}}
 
-## Hello, World!
+##  🥇 First Place - 39<sup>th</sup> IACDE National Conference - *Paper Presentation*
 
-```go {filename="main.go"}
-package main
+![IACDE 2024](image.png)
+{{< badge content="First Place" color="yellow" >}}
+{{< badge content="Paper Presentation" color="green" >}}
+{{< badge content="IACDE" color="red" >}}
 
-import "fmt"
 
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+
+## 🥇 First Place - 23<sup>rd</sup> IACDE National PG Convention - *E-Poster*
+
+
+![IACDE 2025](image-1.png)
+{{< badge content="First Place" color="yellow" >}}
+{{< badge content="E-Poster Presentation" color="green" >}}
+{{< badge content="IACDE" color="red" >}}
+
+{{% /steps %}}

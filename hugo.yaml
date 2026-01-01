@@ -16,14 +16,33 @@ markup:
   highlight:
     noClasses: false
 
+
+
 menu:
   main:
-    # - name: Docs
-    #   pageRef: /docs
-    #   weight: 1
-    # - name: About
-    #   pageRef: /about
-    #   weight: 2
+    - identifier: achievements
+      name: Achievements
+      pageRef: /docs
+      weight: 1
+      params:
+        type: link
+        icon: academic-cap
+    - identifier: gallery
+      name: Gallery
+      pageRef: /gallery
+      weight: 2
+      params:
+        type: link
+        icon: camera
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+      label: true
+
     # - name: Contact ↗
     #   url: "https://github.com/imfing"
     #   weight: 3
@@ -36,16 +55,25 @@ menu:
     #   url: "https://github.com/imfing/hextra-starter-template"
     #   params:
     #     icon: github
-    - name: Instagram
-      weight: 6
-      url: "https://www.instagram.com/dr.thejusaz/"
-      params:
-        icon: camera
+    # - name: Instagram
+    #   weight: 6
+    #   url: "https://www.instagram.com/dr.thejusaz/"
+    #   params:
+    #     icon: camera
 
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo-wide-light.svg
+      dark: images/logo-wide-light.svg
+      link: /
+      width: 100
+      height: 80
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
 
   footer:
     displayCopyright: true
@@ -55,6 +83,3 @@ params:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
-services:
-  googleAnalytics:
-    ID: G-E1R109F4V1

@@ -3,32 +3,23 @@ title:
 toc: false
 ---
 
-# Dr Thejus Ann Zachariah
-BDS | MDS | Aesthetic Dentist & Microendodontist
-
-Endodontist, track runner and an avid enthusiast for travel, food and adventure!
-
-
-{{< hextra/hero-container image="/images/1.png"  cols=2 imageTitle="title" >}}
+{{< hextra/hero-container image="/images/logo.svg"  cols=2 imageTitle="title" >}}
 
 {{< hextra/hero-headline >}}
-
-It is exactly what the name suggests. Prints a damn calendar. Genius!
+Dr Thejus Ann Zachariah
 {{< /hextra/hero-headline >}}
 
 {{< hextra/hero-subtitle >}}
-
+BDS | MDS | Aesthetic Dentist & Microendodontist
 {{< /hextra/hero-subtitle >}}
 
-{{< cards cols="1">}}
+<br class="hx:sm:block hx:hidden" />
+Endodontist, track runner and an avid enthusiast for travel, food and adventure!
+<!-- {{< cards cols="1">}}
   {{< card link="https://print-a-calendar.com/" title="Go to print-a-calendar" icon="search" >}}
-{{< /cards >}}
+{{< /cards >}} -->
 
 {{< /hextra/hero-container >}}
-
-### More calendars?
-
-Your teeth 
 
 
 
