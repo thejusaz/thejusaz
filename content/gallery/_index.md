@@ -23,5 +23,5 @@ Bleaching is a conservative, noninvasive, and inexpensive line of treatment for 
 
 #### Good As New
 
-![alt text](buidup.png)
+![alt text](buildup.png)
 
