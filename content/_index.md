@@ -23,7 +23,7 @@ Endodontist, track runner and an avid enthusiast for travel, food and adventure!
 
 
 
-![](/images/Banner.png)
+![](/images/Banner.jpeg)
 
 ## Skills
 
