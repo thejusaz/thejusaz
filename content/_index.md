@@ -27,36 +27,37 @@ Endodontist, track runner and an avid enthusiast for travel, food and adventure!
 
 ## Skills
 
-`Ceramic Inlay`
-`Dental Restoration`
-`Vital Pulp Therapy`
-`Traumatic Tooth Injury Management `
-`Direct Composite Veneer`
-`Class 1,2,3,4,5 Buildup`
-`Ceramic Veneer`
-`Public Speaking`
-`Crown and Bridge Prosthesis`
-`Smile Correction`
-`Vital Bleaching`
-`Fibre reinforced Post and core`
 `Endodontics`
-`Root Canal`
 `Cosmetic Dentistry`
-`Separated Instrument Bypassing and Retrieval`
-`Ceramic Onlay`
-`Ceramic Overlay`
-`Dental Care`
-`Diastema closure`
-`Dentistry`
 `Restorative Dentistry`
-`Custom Cast Post and Core`
-`Mobile teeth splinting`
-`Angle Build up`
+`Root/Re-Root Canal Treatment RCT`
+`Vital Pulp Therapy`
+`Direct Composite Restoration`
+`Diastema Closure`
+`Angle Buildup`
+`Vital/Non-Vital Bleaching`
+`Smile Correction`
+`Direct Composite & Ceramic Veneer`
+`Ceramic Inlay/Onlay/Overlay`
+`Custom Cast & Fibre reinforced Post and Core`
+`Traumatic Tooth Injury Management`
+`Apexification`
+`Reimplantation of Avulsed Tooth`
+`Mobile Tooth Splinting`
+`Dental Restoration`
+`Class 1,2,3,4,5 Buildup`
+`Separated Instrument Bypassing and Retrieval`
+`Crown and Bridge Prosthesis`
+`Endocrown`
 `Microscopic Dentistry`
-`Patient Relations`
 `Periapical Surgery`
-`ReRoot Canal Treatment`
-`Root Canal Treatment`
+`Scaling`
+`Dentures`
+`Basic Life Support BLS`
+`Public Speaking`
+`Dental Care`
+`Patient Relations`
+`Pain Management`
 
 
 ##  Links

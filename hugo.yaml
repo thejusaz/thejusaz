@@ -77,9 +77,13 @@ params:
 
   footer:
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
+  banner:
+    key: 'announcement-xxx'
+    message: |
+      🎉 Happy New Year 2026 🎉.
