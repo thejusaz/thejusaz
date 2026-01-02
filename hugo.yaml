@@ -22,7 +22,7 @@ menu:
   main:
     - identifier: achievements
       name: Achievements
-      pageRef: /docs
+      pageRef: /achievements
       weight: 1
       params:
         type: link
@@ -34,8 +34,15 @@ menu:
       params:
         type: link
         icon: camera
-    - name: Search
+    - identifier: resume
+      name: Resume
+      pageRef: /resume
       weight: 3
+      params:
+        type: link
+        icon: folder-open
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: Theme Toggle
