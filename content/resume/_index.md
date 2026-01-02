@@ -1,5 +1,5 @@
 ---
-title: Achievements
+title: Resume
 next: first-page
 type: blog
 ---
