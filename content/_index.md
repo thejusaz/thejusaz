@@ -25,40 +25,6 @@ Endodontist, track runner and an avid enthusiast for travel, food and adventure!
 
 ![](/images/Banner.jpeg)
 
-## Skills
-
-`Endodontics`
-`Cosmetic Dentistry`
-`Restorative Dentistry`
-`Root/Re-Root Canal Treatment RCT`
-`Vital Pulp Therapy`
-`Direct Composite Restoration`
-`Diastema Closure`
-`Angle Buildup`
-`Vital/Non-Vital Bleaching`
-`Smile Correction`
-`Direct Composite & Ceramic Veneer`
-`Ceramic Inlay/Onlay/Overlay`
-`Custom Cast & Fibre reinforced Post and Core`
-`Traumatic Tooth Injury Management`
-`Apexification`
-`Reimplantation of Avulsed Tooth`
-`Mobile Tooth Splinting`
-`Dental Restoration`
-`Class 1,2,3,4,5 Buildup`
-`Separated Instrument Bypassing and Retrieval`
-`Crown and Bridge Prosthesis`
-`Endocrown`
-`Microscopic Dentistry`
-`Periapical Surgery`
-`Scaling`
-`Dentures`
-`Basic Life Support BLS`
-`Public Speaking`
-`Dental Care`
-`Patient Relations`
-`Pain Management`
-
 
 ##  Links
 
