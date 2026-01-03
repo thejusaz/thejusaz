@@ -5,7 +5,7 @@ type: blog
 ---
 
 ## About
-As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am an Aesthetic Dentist and Micro-endodontist with extensive experience in advanced root canal treatments and Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
+As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am an Aesthetic Dentist and Micro-endodontist with extensive experience in advanced restorative and root canal treatments including Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
 
 My personal belief is that the foundation for superior dental treatment is founded upon the principles of good communication; as such, I take great care to fully inform my patients on what I am doing and take the time to make them feel comfortable and empowered throughout the entire process. 
 

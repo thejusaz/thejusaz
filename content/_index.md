@@ -29,12 +29,12 @@ Endodontist, track runner and an avid enthusiast for travel, food and adventure!
 ##  Links
 
 
-{{< cards cols="2">}}
+{{< cards cols="3">}}
 {{< card link="mailto:thejusannzach@gmail.com" title="Email" icon="mail" >}}
 {{< card link="https://www.linkedin.com/in/thejusaz/" title="LinkedIn" icon="linkedin" >}}
+{{< card link="https://topmate.io/thejusaz/" title="Topmate" icon="chip" >}}
 <!-- {{< card link="https://www.youtube.com/@joelab.c" title="YouTube" icon="youtube" >}} -->
-<!-- {{< card link="https://topmate.io/joelabc/" title="Topmate" icon="chip" >}}
-{{< card link="https://unsplash.com/@joelabc" title="Unsplash" icon="photograph" >}}
+<!-- {{< card link="https://unsplash.com/@joelabc" title="Unsplash" icon="photograph" >}}
 {{< card link="https://ko-fi.com/joelabc" title="Ko-Fi" icon="beaker" >}}
-{{< card link="https://www.strava.com/athletes/42187357" title="Strava" icon="heart" >}} -->
+{{< card link="https://www.strava.com/athletes/42187357" title="Strava" icon="heart" >}} --> 
 {{< /cards >}}
