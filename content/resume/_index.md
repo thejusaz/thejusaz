@@ -5,22 +5,21 @@ type: blog
 ---
 
 ## About
-As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am a specialist Endodontist with extensive experience in advanced root canal treatments and Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
-Regardless of the reason for seeking relief for a toothache or the need for complicated endodontic retreatment, my working philosophy is founded on being conservative whenever possible and maintaining the natural integrity of the tooth. 
+As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am an Aesthetic Dentist and Micro-endodontist with extensive experience in advanced root canal treatments and Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
 
 My personal belief is that the foundation for superior dental treatment is founded upon the principles of good communication; as such, I take great care to fully inform my patients on what I am doing and take the time to make them feel comfortable and empowered throughout the entire process. 
 
-If you are in search of an endodontic specialist with the skills and care to make you feel at ease throughout the treatment, I am dedicated to providing such a service for a lifetime of dental care and achievement for your smiles and 
+If you are in search of an endodontic specialist with the skills and care to make you feel at ease throughout the treatment, I am dedicated to providing such a service for a lifetime of dental care and achievement for your smiles. 
 
 ## Experience
-As a Specialist Endodontist a keen interest in the diagnosis and treatment of complex dental pulp and periapical pathologies.
+As an Endodontist I have a keen interest in the diagnosis and treatment of complex dental pulp and periapical pathologies.
 My clinical experience includes:
 
 * **Precision Root Canal Therapy:** Providing effective, successful procedures to eliminate infection while saving the tooth.
 
 * **Microscopic Endodontics:** Utilizing advanced optical microscopy to explore intricate canal morphology which might not be identified using traditional techniques.
 
-* C**onservative Restorative Dentistry:** Minimal intervention approach to maintain the tooth structure after treatment.
+* **Conservative Restorative Dentistry:** Minimal intervention approach to maintain the tooth structure after treatment.
 
 * **Emergency Dental Services:** Offering immediate responses to cases of sudden dental trauma, abscesses, and extreme toothaches.
 
@@ -30,7 +29,7 @@ My clinical experience includes:
 
 ##  Master of Dental Surgery (MDS) | Conservative Dentistry & Endodontics
 
-My specializations involved advanced concepts related to the biological and mechanical components of saving a tooth. However, my interests lie in evidence-based dentistry, where I keep abreast of the latest developments in endodontic techniques.
+My specialization involves advanced concepts related to the biological and mechanical components of saving a tooth. However, my interests lie in evidence-based dentistry, where I keep myself updated on the latest developments in endodontic techniques.
 
 ## Bachelor of Dental Surgery (BDS)
 
@@ -40,12 +39,12 @@ Created strong roots in the principles of clinical excellence and the passion fo
 
  
 
-Skills & Endorsements
-Microscopic Endodontics
- High-precision treatment for complex root morphologies.
-Painless Root Canal: Anesthesia and Patient Comfort Strategies: Describing current developments and practices.
-Conservative Dentistry: Minimally invasive strategies to optimize the life span of the tooth.
-Endodontic Retreatment: Specialist care for previously failing root canals.
+## Skills & Endorsements
+
+* **Microscopic Endodontics:** High-precision treatment for complex root morphologies.
+* **Painless Root Canal:** Anesthesia and Patient Comfort Strategies: Describing current developments and practices.
+* **Conservative Dentistry:** Minimally invasive strategies to optimize the life span of the tooth.
+* **Endodontic Retreatment:** Specialist care for previously failing root canals.
 
 ## Skills
 
