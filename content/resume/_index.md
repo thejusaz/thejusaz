@@ -41,35 +41,43 @@ My clinical experience includes:
 
 Furthemore I have extensive experience during my masters programme in treating a wide range of cases, below are some notable highlights:
 
-### Restorative & Aesthetic Procedures
+<!-- ### Restorative & Aesthetic Procedures -->
+{{% details title="Restorative & Aesthetic Procedures" closed="true" %}}
 Mastered Class I to VI composite restorations using sectional and saddle matrix systems, ensuring precise and optimal outcomes.
 Aesthetic restorations guided by the principles of biomimetic restorative dentistry including Diastema closure, Class III restoration, Class IV angle build up.
 Aesthetic procedures such as Composite and Ceramic Veneers, Micro-abrasion, Vital and Non-vital bleaching including Laser assisted bleaching
+{{% /details %}}
 
-### Pulpal & Periapical Therapies
+<!-- ### Pulpal & Periapical Therapies -->
+{{% details title="Pulpal & Periapical Therapies" closed="true" %}}
 Vital Pulp Therapies such as Direct & Indirect Pulp capping, Complete & Partial Pulpotomy using MTA / Biodentine, preserving pulp vitality.
 Non-vital Pulp Therapies such as MTA Apexification and Regenerative procedures using Triple Antibiotic Paste and i-PRF for closure of Open Apex.
 Non-surgical and Surgical Management of Periapical Pathologies
+{{% /details %}}
+<!-- ### Root Canal Treatment -->
 
-### Root Canal Treatment
+{{% details title="Root Canal Treatment" closed="true" %}}
 Performed complex anterior and posterior root canal and re-root canal treatments, managing previous treatment inadequacies.
 Proficient in utilising various rotary systems for efficient and predictable endodontic outcomes.
 Management of calcified canals, supplemental canals and complex morphological variations of root canals.
 Root Canal / Re-Root Canal Treatment ‘through the crown’ preserving existing restoration potentially reducing overall treatment time and cost.
+{{% /details %}}
+<!-- ### Post Endodontic Rehabilitation -->
 
-
-### Post Endodontic Rehabilitation
+{{% details title="Post Endodontic Rehabilitation" closed="true" %}}
 Fibre Reinforced Post endodontic restorations ensuring minimally invasive reinforcement of endodontically treated tooth.
 Post endodontic prosthetic rehabilitation including Full Coverage Crown, Onlay, Overlay and Endocrown, achieving precise fit and aesthetics.
 Re-establishment of severe loss of tooth structure using post and core fabrication including cast / prefabricated /  Anatomical Post in indicated cases.
+{{% /details %}}
+<!-- ### Trauma, Perforation, Instrument Separation -->
 
-### Trauma, Perforation, Instrument Separation
+{{% details title="Trauma, Perforation, Instrument Separation" closed="true" %}}
 Repair of uncomplicated and complicated crown / crown root fracture with fragment reattachment.
 Management of traumatic dental injuries including splinting of mobile tooth and re-implantation of avulsed tooth.
 Repositioning of traumatically intruded / extruded teeth.
 Repair of cervical and furcal perforations under Dental Operating Microscope, using advanced materials like MTA and Biodentine.
 Fractured instrument management including bypassing, and retrieval using Dental Operating Microscope, loop device and ultrasonics.
-
+{{% /details %}}
 
 ## CDE Programs
 
