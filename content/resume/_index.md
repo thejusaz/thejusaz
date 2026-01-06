@@ -4,7 +4,6 @@ next: first-page
 type: docs
 breadcrumbs: false
 ---
-
 ## About
 As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am an Aesthetic Dentist and Micro-endodontist with extensive experience in advanced restorative and root canal treatments including Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
 
@@ -40,7 +39,7 @@ My clinical experience includes:
 
 * **Emergency Dental Services:** Offering immediate responses to cases of sudden dental trauma, abscesses, and extreme toothaches.
 
-Furthemore I have extensive experience during my masters programme in teating a wide range of cases, below are some notable highlights:
+Furthemore I have extensive experience during my masters programme in treating a wide range of cases, below are some notable highlights:
 
 ### Restorative & Aesthetic Procedures
 Mastered Class I to VI composite restorations using sectional and saddle matrix systems, ensuring precise and optimal outcomes.
@@ -84,7 +83,7 @@ Fractured instrument management including bypassing, and retrieval using Dental 
 #### A Prosthetic Perspective to Implant Planning - Dr. Gaurav Khemaria
 {{< badge content="April 2025" color="yellow" >}} 
 {{< badge content="Hotel Mango" color="green" >}} 
-{{< badge content="Hotel Mango Davagere" color="red" >}} 
+{{< badge content="Davagere" color="red" >}} 
 
 #### Illuminating Dentistry - Dr. Suresh Shenvi
 {{< badge content="March 2025" color="yellow" >}} 
