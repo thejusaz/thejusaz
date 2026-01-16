@@ -27,9 +27,9 @@ menu:
       params:
         type: link
         icon: academic-cap
-    - identifier: gallery
-      name: Gallery
-      pageRef: /gallery
+    - identifier: Case Album
+      name: Case Album
+      pageRef: /gallery/case-album
       weight: 2
       params:
         type: link
