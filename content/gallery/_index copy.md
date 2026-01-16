@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Highlights
 type: docs
 breadcrumbs: false
 ---
