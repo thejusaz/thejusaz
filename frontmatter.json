@@ -52,19 +52,20 @@
       "title": "content"
     },
     {
-      "path": "[[workspace]]/content/gallery"
+      "path": "[[workspace]]/content/case-album",
+      "title": "case-album"
     },
     {
-      "path": "[[workspace]]/content/case-album"
+      "path": "[[workspace]]/content/resume",
+      "title": "resume"
     },
     {
-      "path": "[[workspace]]/content/resume"
+      "path": "[[workspace]]/content/achievements",
+      "title": "achievements"
     },
     {
-      "path": "[[workspace]]/content/achievements"
-    },
-    {
-      "path": "[[workspace]]/assets/images/folder"
+      "path": "[[workspace]]/assets/images/folder",
+      "title": "folder"
     }
   ],
   "frontMatter.git.enabled": true
