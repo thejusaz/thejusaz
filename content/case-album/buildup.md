@@ -2,6 +2,7 @@
 title: Build Up
 type: docs
 breadcrumbs: false
+draft: false
 ---
 # Class IV Build Up - 21
 
@@ -13,3 +14,5 @@ breadcrumbs: false
 
 ## Acid Etching
 ![alt text](images/bup-3.png)
+
+
