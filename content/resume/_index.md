@@ -1,8 +1,10 @@
 ---
 title: Resume
+toc: true
 next: first-page
 type: docs
 breadcrumbs: false
+
 ---
 ## About
 As a dedicated practitioner of Endodontics, I am committed to delivering high-quality, compassionate, and patient-centered dental care. I am an Aesthetic Dentist and Micro-endodontist with extensive experience in advanced restorative and root canal treatments including Microscopic Endodontics, leveraging the latest technology for precise, predictable, and successful results.
