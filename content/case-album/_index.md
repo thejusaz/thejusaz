@@ -11,7 +11,7 @@ breadcrumbs: false
 {{< card link="/case-album/dpc" title="Direct Pulp Capping " image="/images/dpc-2.png" >}}
 {{< card link="/case-album/microabrasion" title="Microabrasion" image="/images/micr-0.png" >}}
 {{< card link="/case-album/lavb" title="Laser Assisted Vital Bleaching" image="/images/lavb-3.png" >}}
-{{< card link="/case-album/lavb" title="Laser Assisted Vital Bleaching" image="/images/lavb-3.png" >}}
+{{< card link="/case-album/vtb" title="Vital Tooth Bleaching" image="/images/vtb-2.png" >}}
 {{< /cards >}}
 
 
