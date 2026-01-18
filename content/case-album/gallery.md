@@ -6,22 +6,22 @@ breadcrumbs: false
 
 ## Dexterity, Determination and Dedication
 
-![alt text](case-album/images/operator.jpeg)
+![alt text](images/operator.jpeg)
 
 ## Bleaching
 Bleaching is a conservative, noninvasive, and inexpensive line of treatment for discolourations in indicated cases, for a better smile.
-![alt text](bleach.jpeg)
+![alt text](images/bleach.jpeg)
 
 
 ## Isolation With Dental Dam
 
-![alt text](case-album/images/dam.jpeg)
+![alt text](images/dam.jpeg)
 
 ## Good As New
 
-![alt text](case-album/images/buildup.jpeg)
+![alt text](images/buildup.jpeg)
 
 
 > "Wherever the art of medicine is loved, there is also a love of humanity - Hippocrates
-![Banner](case-album/images/LinkedInCover.jpeg)
+![Banner](images/LinkedInCover.jpeg)
 
