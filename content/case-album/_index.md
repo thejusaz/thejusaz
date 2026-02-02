@@ -11,7 +11,11 @@ breadcrumbs: false
 {{< card link="/case-album/dpc" title="Direct Pulp Capping " image="/images/dpc-2.png" >}}
 {{< card link="/case-album/microabrasion" title="Microabrasion" image="/images/micr-0.png" >}}
 {{< card link="/case-album/lavb" title="Laser Assisted Vital Bleaching" image="/images/lavb-3.png" >}}
-{{< card link="/case-album/vtb" title="Vital Tooth Bleaching" image="/images/vtb-2.png" >}}
+{{< card link="/case-album/vtb" title="Vital Tooth Bleaching" image="/images/vtb-0.png" >}}
+{{< card link="/case-album/nivb" title="Non Vital Intracoronal Bleaching" image="/images/nvib-0.jpg" >}}
+{{< card link="/case-album/pp" title="Partial Pulotomy" image="/images/pp-0.jpg" >}}
+{{< card link="/case-album/vo" title="Vital Overlay - 36" image="/images/vo-0.jpg" >}}
+{{< card link="/case-album/zir" title="Vital Overlay - 36" image="/images/zir-0.jpg" >}}
 {{< /cards >}}
 
 
