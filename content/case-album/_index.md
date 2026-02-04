@@ -16,5 +16,5 @@ breadcrumbs: false
 {{< card link="/case-album/pp" title="Partial Pulotomy" image="/images/pp-0.jpg" >}}
 {{< card link="/case-album/vo" title="Vital Overlay - 36" image="/images/vo-0.jpg" >}}
 {{< card link="/case-album/zir" title="Zirconia Crown - 46" image="/images/zir-0.jpg" >}}
-{{< card link="/case-album/lde" title="Lithium Disilicate Endocrown - 16" image="/images/lde-0.jpg" >}}
+<!-- {{< card link="/case-album/lde" title="Lithium Disilicate Endocrown - 16" image="/images/lde-0.jpg" >}} -->
 {{< /cards >}}
