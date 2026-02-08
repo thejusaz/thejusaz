@@ -85,27 +85,27 @@ Fractured instrument management including bypassing, and retrieval using Dental 
 
 {{% steps %}}
 
-#### INTEROSPECT- PIAR - Dr. Ritul Agarwal
+#### INTEROSPECT- PIAR - [Dr. Ritul Agarwal](https://www.linkedin.com/in/drritul/)
 {{< badge content="June 2025" color="yellow" >}} 
 {{< badge content="Bapuji Dental College and Hospital" color="green" >}} 
 {{< badge content="Davagere" color="red" >}} 
 
-#### A Prosthetic Perspective to Implant Planning - Dr. Gaurav Khemaria
+#### A Prosthetic Perspective to Implant Planning - [Dr. Gaurav Khemaria](https://www.linkedin.com/in/gaurav-khemaria/)
 {{< badge content="April 2025" color="yellow" >}} 
 {{< badge content="Hotel Mango" color="green" >}} 
 {{< badge content="Davagere" color="red" >}} 
 
-#### Illuminating Dentistry - Dr. Suresh Shenvi
+#### Illuminating Dentistry - [Dr. Suresh Shenvi](https://www.linkedin.com/in/suresh-shenvi-4aa4209a/)
 {{< badge content="March 2025" color="yellow" >}} 
 {{< badge content="College of Dental Sciences" color="green" >}} 
 {{< badge content="Davagere" color="red" >}} 
 
-#### The World of Bonded Aesthetic Restoration – Dr. Krutika Menon
+#### The World of Bonded Aesthetic Restoration – [Dr. Krutika Menon](https://www.practo.com/bangalore/doctor/krutika-menon-dentist?utm_source=organic&utm_campaign=faq-profile)
 {{< badge content="April 2024" color="yellow" >}} 
 {{< badge content="College of Dental Sciences" color="green" >}} 
 {{< badge content="Davagere" color="red" >}} 
 
-#### Management of Discolored Teeth – Dr. Poojitha Jain
+#### Management of Discolored Teeth – [Dr. Poojitha Jain](https://www.linkedin.com/in/dr-pooja-jain-dentist-in-delhi/)
 {{< badge content="March 2024" color="yellow" >}} 
 {{< badge content="College of Dental Sciences" color="green" >}} 
 {{< badge content="Davagere" color="red" >}} 
@@ -123,23 +123,23 @@ Fractured instrument management including bypassing, and retrieval using Dental 
 
 {{% steps %}}
 
-#### 4<sup>th</sup> ACE- Karnataka Conference
+#### 4<sup>th</sup> [ACE- Karnataka Conference](https://www.acekarnataka.in/index.html)
 {{< badge content="July 2025" color="yellow" >}} 
 {{< badge content="Davagere" color="red" >}} 
 {{< badge content="ACE" color="purple" >}}
 
-#### 39<sup>th</sup> IACDE National Conference
+#### 39<sup>th</sup> [IACDE National Conference](https://journals.lww.com/jcde/fulltext/2024/27110/the_39th_indian_association_of_conservative.1.aspx)
 {{< badge content="November 2024" color="yellow" >}}
 {{< badge content="Mumbai" color="red" >}}
 {{< badge content="IACDE" color="purple" >}}
 
 
-#### 23<sup>rd</sup> IACDE National Convention   
+#### 23<sup>rd</sup> [IACDE National Convention](https://www.iacde.in/)  
 {{< badge content="March 2023" color="yellow" >}}
 {{< badge content="Kohlapur" color="red" >}}
 {{< badge content="IACDE" color="purple" >}}
 
-#### 5<sup>th</sup> ISDT National Symposium           
+#### 5<sup>th</sup> [ISDT National Symposium](https://isdt.in/)           
 {{< badge content="July 2019" color="yellow" >}}
 {{< badge content="Ludhiana" color="red" >}}
 {{< badge content="ISDT" color="purple" >}}
