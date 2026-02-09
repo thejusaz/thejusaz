@@ -173,14 +173,14 @@ Fractured instrument management including bypassing, and retrieval using Dental 
 {{< badge content="Endodontics" color="yellow" >}}
 {{< badge content="Cosmetic Dentistry" color="yellow" >}}
 {{< badge content="Restorative Dentistry" color="yellow" >}}
-{{< badge content="Root/Re-Root Canal Treatment RCT" color="yellow" >}}
+{{< badge content="Root/Re-Root Canal Treatment RCT" color="red" link="/case-album/rct/" icon="arrow-sm-right" >}}
 {{< badge content="Vital Pulp Therapy" color="yellow" >}}
-{{< badge content="Direct Composite Restoration" color="yellow" >}}
+{{< badge content="Direct Composite Restoration" color="red" link="/case-album/restoration/" icon="arrow-sm-right">}}
 {{< badge content="Diastema Closure" color="yellow" >}}
 {{< badge content="Angle Buildup" color="yellow" >}}
-{{< badge content="Vital/Non-Vital Bleaching" color="yellow" >}}
+{{< badge content="Vital/Non-Vital Bleaching" color="yellow" color="red" link="/case-album/vtb/" icon="arrow-sm-right">}}
 {{< badge content="Smile Correction" color="yellow" >}}
-{{< badge content="Direct Composite & Ceramic Veneer" color="yellow" >}}
+{{< badge content="Direct Composite & Ceramic Veneer" color="red" link="/case-album/direct-composite-veneer/" icon="arrow-sm-right" >}}
 {{< badge content="Ceramic Inlay/Onlay/Overlay" color="yellow" >}}
 {{< badge content="Custom Cast & Fibre reinforced Post and Core" color="yellow" >}}
 {{< badge content="Traumatic Tooth Injury Management" color="yellow" >}}
