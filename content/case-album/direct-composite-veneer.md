@@ -12,22 +12,22 @@ breadcrumbs: false
 
 
 ## Pre-Operative
-![Pre-Operative](images/dcv-1.png)
+![Pre-Operative](images/dcv-1.jpeg)
 
 ## Shade Selection
 ![aShade Selection](images/dcv-7.jpg)
 
 ## Tooth Preparation
-![Tooth Preparation](images/dcv-2.png)
+![Tooth Preparation](images/dcv-2.jpeg)
 
 ## Acid Etching
-![Acid Etching](images/dcv-3.png)
+![Acid Etching](images/dcv-3.jpeg)
 
 ## Bonding Agent Application
-![Bonding Agent Application](images/dcv-4.png)
+![Bonding Agent Application](images/dcv-4.jpeg)
 
 ## Veneer Post Polishing 
-![Veneer Post Polishing](images/dcv-5.png)
+![Veneer Post Polishing](images/dcv-5.jpeg)
 
 ## Profile View
 ![Profile View](images/dcv-6.jpg)

@@ -15,15 +15,15 @@ breadcrumbs: false
 
 
 ## Caries Excavation
-![Caries Excavation](images/comprest-1.png)
+![Caries Excavation](images/comprest-1.jpeg)
 
 ## Selective Acid Etching
-![Selective Acid Etching](images/comprest-2.png)
+![Selective Acid Etching](images/comprest-2.jpeg)
 
 ## Bonding Agent Application 
-![Bonding Agent Application](images/comprest-3.png)
+![Bonding Agent Application](images/comprest-3.jpeg)
 
 ## Post-Operative
-![Post-Operative](images/comprest-4.png)
+![Post-Operative](images/comprest-4.jpeg)
 
 
