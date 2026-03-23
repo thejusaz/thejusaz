@@ -5,6 +5,8 @@ breadcrumbs: false
 ---
 
 {{< cards cols="3" >}}
+{{< card link="/case-album/closure" title="Diastema Closure" image="/images/diac-0.jpg" >}}
+<!-- {{< card link="/case-album/buildup" title="Build Up" image="/images/bup-0.jpeg" >}} -->
 {{< card link="/case-album/buildup" title="Build Up" image="/images/bup-0.jpeg" >}}
 {{< card link="/case-album/restoration" title="Composite Restoration" image="/images/comprest-0.jpeg" >}}
 {{< card link="/case-album/direct-composite-veneer" title="Direct Composite Veneer" image="/images/dcv-0.jpeg" >}}
@@ -16,6 +18,5 @@ breadcrumbs: false
 {{< card link="/case-album/pp" title="Partial Pulotomy" image="/images/pp-0.jpg" >}}
 {{< card link="/case-album/vo" title="Vital Overlay - 36" image="/images/vo-0.jpg" >}}
 {{< card link="/case-album/zir" title="Zirconia Crown - 46" image="/images/zir-0.jpg" >}}
-{{< card link="/case-album/closure" title="Diastema Closure" image="/images/diac-0.jpg" >}}
 <!-- {{< card link="/case-album/lde" title="Lithium Disilicate Endocrown - 16" image="/images/lde-0.jpg" >}} -->
 {{< /cards >}}
