@@ -12,7 +12,7 @@ draft: false
 ## Palatal Shelf Build Up
 ![alt text](images/bup-2.png)
 
-## Acid Etching
+## Post-Operative
 ![alt text](images/bup-3.png)
 
 

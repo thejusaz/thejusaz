@@ -1,6 +1,20 @@
 # Hugo configuration file
 title: TAZ
 
+author:
+  name: "Thejus"
+  email: "thejus@example.com"
+
+outputs:
+  home:
+    - html
+  section:
+    - html
+  taxonomy:
+    - html
+  term:
+    - html
+
 # import hextra as module
 module:
   imports:
