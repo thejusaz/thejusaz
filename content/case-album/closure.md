@@ -5,22 +5,34 @@ breadcrumbs: false
 date: 2026-03-23
 ---
 
-## Pre-Operative - Right Profile
+| Case | Description |
+| :---- | :-- |
+| Patient   | 30 years old female patient, with h/o previous orthodontic treatment  |
+| Chief Complaint | Incomplete space closure in upper front tooth region  |
+| Oral Evaluation | Diastema wrt 12 and 22, midline diastema absent but presence of black triangle with plaque buildup seen |
+| Treatment Plan | Space closure with direct resin composite resembling her adjacent tooth form to provide natural appearance  |
+
+
+## Pre-Operative
+### Right Profile
 ![alt text](images/diac-1.jpg)
 
-## Pre-Operative - Left Profile
+
+### Left Profile
 ![alt text](images/diac-2.jpg)
 
-## Pre-Operative - Front Profile
+
+### Front Profile
 ![alt text](images/diac-3.jpg)
 
-## Post-Operative - Right Profile
+## Post-Operative
+### Right Profile
 ![alt text](images/diac-4.jpg)
 
-## Post-Operative - Left Profile
+### Left Profile
 ![alt text](images/diac-5.jpg)
 
-## Post-Operative - Front Profile
+### Front Profile
 ![alt text](images/diac-6.jpg)
 
 
