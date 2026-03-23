@@ -104,7 +104,7 @@ params:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
 
-  banner:
-    key: 'announcement-xxx'
-    message: |
-      🎉 Happy New Year 2026 🎉.
+  # banner:
+  #   key: 'announcement-xxx'
+  #   message: |
+  #     🎉 Happy New Year 2026 🎉.

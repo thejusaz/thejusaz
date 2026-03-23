@@ -6,6 +6,14 @@ breadcrumbs: false
 
 > MULTIPLE CLASS III COMPOSITE RESTORATIONS- 11, 12, 21, 22
 
+| Case | Description |
+| :---- | :-- |
+| Patient   | 26 year old female patient |
+| Chief Complaint | Decay in upper front tooth region since 1 year  |
+| Oral Evaluation | Class III caries wrt 11, 12, 21, 22  |
+| Treatment Plan | Caries excavation  |
+
+
 ## Caries Excavation
 ![alt text](images/comprest-1.png)
 
