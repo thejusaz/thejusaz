@@ -6,7 +6,7 @@ breadcrumbs: false
 
 {{< cards cols="3" >}}
 {{< card link="/case-album/closure" title="Diastema Closure" image="/images/diac-0.jpg" >}}
-{{< card link="/case-album/rct/" title="Build Up" image="/images/rct48-3.png" >}}
+{{< card link="/case-album/rct/" title="Root Canal Treatment" image="/images/rct48-3.png" >}}
 {{< card link="/case-album/buildup" title="Build Up" image="/images/bup-0.jpeg" >}}
 {{< card link="/case-album/restoration" title="Composite Restoration" image="/images/comprest-0.jpeg" >}}
 {{< card link="/case-album/direct-composite-veneer" title="Direct Composite Veneer" image="/images/dcv-0.jpeg" >}}
