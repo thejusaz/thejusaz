@@ -2,6 +2,7 @@
 title: Gallery
 type: docs
 breadcrumbs: false
+draft: true
 ---
 
 ## Dexterity, Determination and Dedication

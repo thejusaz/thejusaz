@@ -19,7 +19,7 @@ breadcrumbs: false
 ## Temporary Restoration Placed
 ![alt text](images/nvib-5.jpg)
 
-## Post Operative
+## Post-Operative
 ![alt text](images/nvib-6.jpg)
 
 

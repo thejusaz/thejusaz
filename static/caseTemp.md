@@ -8,8 +8,8 @@ date: 2026-03-23
 | Case | Description |
 | :---- | :-- |
 | Patient   |  |
-| Chief Complaint |   |
-| Oral Evaluation |  |
+| Chief Complaint & HOPI |   |
+| Oral Examination |  |
 | Treatment Plan |   |
 
 

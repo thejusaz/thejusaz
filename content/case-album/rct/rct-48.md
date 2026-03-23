@@ -12,7 +12,7 @@ draft: false
 ## Pre Operative X Ray
 ![alt text](images/rct48-2.png)
 
-## Post Operative X Ray
+## Post-Operative X Ray
 ![alt text](images/rct48-3.png)
 
 

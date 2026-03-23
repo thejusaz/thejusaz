@@ -9,21 +9,21 @@ breadcrumbs: false
 | Case | Description |
 | :---- | :-- |
 | Patient   | 26 year old female patient |
-| Chief Complaint | Decay in upper front tooth region since 1 year  |
-| Oral Evaluation | Class III caries wrt 11, 12, 21, 22  |
-| Treatment Plan | Caries excavation  |
+| Chief Complaint & HOPI | Decay in upper front tooth region since 1 year  |
+| Oral Examination | Class III caries wrt 11, 12, 21, 22 |
+| Treatment Plan | Caries excavation and evaluation for direct composite restoration wrt 11, 12, 21, 22 |
 
 
 ## Caries Excavation
-![alt text](images/comprest-1.png)
+![Caries Excavation](images/comprest-1.png)
 
 ## Selective Acid Etching
-![alt text](images/comprest-2.png)
+![Selective Acid Etching](images/comprest-2.png)
 
 ## Bonding Agent Application 
-![alt text](images/comprest-3.png)
+![Bonding Agent Application](images/comprest-3.png)
 
-## Post Operative
-![alt text](images/comprest-4.png)
+## Post-Operative
+![Post-Operative](images/comprest-4.png)
 
 

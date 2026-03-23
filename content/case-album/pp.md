@@ -16,7 +16,7 @@ breadcrumbs: false
 ## MTA Vital Pulp Therapy
 ![alt text](images/pp-4.jpg)
 
-## Post Operative
+## Post-Operative
 ![alt text](images/pp-5.jpg)
 
 

@@ -3,24 +3,37 @@ title: Direct Composite Veneer
 type: docs
 breadcrumbs: false
 ---
+| Case | Description |
+| :---- | :-- |
+| Patient   | 33 year old female patient |
+| Chief Complaint & HOPI | Discoloured upper front tooth region, h/o composite restoration wrt 11 and 21 - 15 years back, discoloured snce 2 years |
+| Oral Examination | Discoloured previous direct composite resin restoration wrt 11 and 21, genaralised mild flurosis with white patches |
+| Treatment Plan | Shade selection and direct composite veneering wrt 11 and 21 - bleaching white shade |
+
 
 ## Pre-Operative
-![alt text](images/dcv-1.png)
+![Pre-Operative](images/dcv-1.png)
+
+## Shade Selection
+![aShade Selection](images/dcv-7.jpg)
 
 ## Tooth Preparation
-![alt text](images/dcv-2.png)
+![Tooth Preparation](images/dcv-2.png)
 
 ## Acid Etching
-![alt text](images/dcv-3.png)
+![Acid Etching](images/dcv-3.png)
 
 ## Bonding Agent Application
-![alt text](images/dcv-4.png)
+![Bonding Agent Application](images/dcv-4.png)
 
 ## Veneer Post Polishing 
-![alt text](images/dcv-5.png)
+![Veneer Post Polishing](images/dcv-5.png)
 
 ## Profile View
-![alt text](images/dcv-6.png)
+![Profile View](images/dcv-6.jpg)
+
+## Her regained smile
+![Her regained smile](images/dcv-8.jpg)
 
 
 

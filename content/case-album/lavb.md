@@ -15,7 +15,7 @@ breadcrumbs: false
 ## Diode Laser Activation
 ![alt text](images/lavb-3.png)
 
-## Post Operative 
+## Post-Operative 
 ![alt text](images/lavb-4.png)
 
 

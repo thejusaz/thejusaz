@@ -16,10 +16,10 @@ breadcrumbs: false
 ## GIC Base
 ![alt text](images/dpc-4.png)
 
-## Post Operative 
+## Post-Operative 
 ![alt text](images/dpc-5.png)
 
-## Pre & Post Operative X Ray
+## Pre & Post-Operative X Ray
 ![alt text](images/dpc-6.png)
 ![alt text](images/dpc-7.png)
 

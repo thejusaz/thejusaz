@@ -16,10 +16,10 @@ breadcrumbs: false
 ## 1 Minute Scrubbing With Prophy Cup  
 ![alt text](images/micr-4.png)
 
-## Post Operative Before Polishing
+## Post-Operative Before Polishing
 ![alt text](images/micr-5.png)
 
-## Post Operative After Polishing
+## Post-Operative After Polishing
 
 ![alt text](images/micr-6.png)
 

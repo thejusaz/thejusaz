@@ -13,7 +13,7 @@ draft: false
 ## Master Cone
 ![alt text](images/rctm-1.png)
 
-## Post Operative X Ray
+## Post-Operative X Ray
 ![alt text](images/rctm-3.png)
 
 

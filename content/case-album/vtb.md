@@ -11,6 +11,6 @@ breadcrumbs: false
 ## Rubber Dam Isolation 
 ![alt text](images/vtb-2.png)
 
-## Post Operative
+## Post-Operative
 ![alt text](images/vtb-3.png)
 
