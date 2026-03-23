@@ -1,7 +1,8 @@
 ---
-title: Diastema closure 
+title: Diastema Closure 
 type: docs
 breadcrumbs: false
+date: 2026-03-23
 ---
 
 ## Pre-Operative - Right Profile
